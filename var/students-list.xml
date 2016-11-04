@@ -101,7 +101,12 @@
         <github>mligeziak</github>
         <group>KrDZIs3011Io</group>
 </student>
-
-
+<student>
+	<firstname>Joanna</firstname>
+        <lastname>Kolanczyk</lastname>
+        <email>s186883@uek.krakow.pl</email>
+        <github>asiatbg</github>
+        <group>KrDZIs3012Io</group>
+</student>
 
 </students>
