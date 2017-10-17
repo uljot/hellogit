@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<students>
+    <student>
+        <firstname>Elena</firstname>
+        <lastname>Iakovlieva</lastname>
+        <email>almera7@interia.eu</email>
+        <github>almera7</github>
+        <group>KrDzia3012</group>
+    </student>
+    <student>
+        <firstname>Magdalena</firstname>
+        <lastname>Wlazlo</lastname>
+        <email>wlazloxmagdalena@gmail.com</email>
+        <github>maggie930727</github>
+        <group>KrDzIS3011Si</group>
+    </student>
+    <student>
+        <firstname>Krzysztof</firstname>
+        <lastname>Baranski</lastname>
+        <email>k1baranski@gmail.com</email>
+        <github>kbaranski</github>
+        <group>KrZZIs3011Si</group>
+    </student>
+    <student>
+    	<firstname> Patryk </firstname>
+    	<lastname> Sroka </lastname>
+    	<email> sunder.fresh@gmail.com </email>
+    	<github>sunder86 </github>
+    	<group> KrZZIs3011Io </group>
+    </student>
+    <student>
+        <firstname> Sylwia  </firstname>
+        <lastname> Grzegolec </lastname>
+        <email> s.grzegolec@gmail.com </email>
+        <github>niemaszoka </github>
+        <group> KrDZIs3012Io</group>
+    </student>
+
+    <student>
+        <firstname> Lukasz</firstname>
+        <lastname> Dolezalek</lastname>
+        <email> luki6021@wp.pl</email>
+        <github> luki6021</github>
+        <group> KrDZIs3011Io</group>
+    </student>
+    <student>
+        <firstname> Dawid</firstname>
+        <lastname> Dziadon</lastname>
+        <email> test@mail.com</email>
+        <github> k4le0</github>
+        <group> KrZZIs3011Io</group>
+    </student>
+    <student>
+        <firstname>Michał</firstname>
+        <lastname>Ligęza</lastname>
+        <email>s187226@uek.krakow.pl</email>
+        <github>mligeziak</github>
+        <group>KrDZIs3011Io</group>
+    </student>
+    <student>
+    	<firstname>Joanna</firstname>
+        <lastname>Kolanczyk</lastname>
+        <email>s186883@uek.krakow.pl</email>
+        <github>asiatbg</github>
+        <group>KrDZIs3012Io</group>
+    </student>
+    <student>
+    	<firstname>Maciej</firstname>
+    	<lastname>Przybylski</lastname>
+    	<email>s187911@uek.krakow.pl</email>
+    	<github>mukaspc</github>
+    	<group>KrDZIs3013Io</group>
+    </student>
+</students>
+
+
