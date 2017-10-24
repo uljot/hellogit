@@ -72,6 +72,14 @@
     	<github>mukaspc</github>
     	<group>KrDZIs3013Io</group>
     </student>
+
+	<student>
+		<firstname>Jack</firstname>
+		<lastname>Sparrow</lastname>
+		<email>captain@interia.pl</email>
+		<github>captain</github>
+		<group>blackpearl</group>
+	</student>
 </students>
 
 
